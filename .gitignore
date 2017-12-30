@@ -52,3 +52,6 @@ web/sites/simpletest
 # Ignore core phpcs.xml and phpunit.xml.
 web/core/phpcs.xml
 web/core/phpunit.xml
+
+# Ignore composer.lock file
+web/composer.lock
