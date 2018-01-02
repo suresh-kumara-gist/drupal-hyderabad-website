@@ -1,4 +1,4 @@
-uuid: cf4dd286-3f97-4e71-b0bf-740a543183c3
+uuid: 701c6ad6-9d2b-417f-9e69-a2b9e94295f7
 langcode: en
 status: true
 dependencies:
@@ -69,6 +69,13 @@ content:
     weight: 15
     region: content
     third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 121
+    third_party_settings: {  }
+    region: content
   sticky:
     type: boolean_checkbox
     settings:

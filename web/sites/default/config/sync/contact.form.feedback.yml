@@ -1,4 +1,4 @@
-uuid: fe41df5c-b288-42ad-b272-eb2dcecfb9b5
+uuid: ded2941c-f40e-4efc-81b1-2fdc0f11dd93
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - test@test.org
+  - info@drupalhyderabad.org
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
